@@ -1,4 +1,4 @@
-# Amazon-Clone
+# Amazon Clone
 Amazon Clone (Frontend Website)
 <br/>
 Tech Stack: HTML & CSS
