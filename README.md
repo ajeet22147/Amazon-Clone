@@ -10,3 +10,5 @@
  open index.html in your browser, no build tools required.
  ## Author:- Ajeet Singh
 "Frontend Developer | HTML | CSS | JavaScript | React.js"
+<br>
+"This project is for educational purposes only. It is not affiliated with, endorsed by, or connected to Amazon."
