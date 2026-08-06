@@ -17,6 +17,7 @@
     align-items: center;
     justify-content: space-between;
 }
+
 .nav-logo {
     background-image: url('images/logo.jpg');
     background-size: cover;
@@ -244,3 +245,4 @@ ul a {
 .copyright {
     padding-top: 5px;
 }
+
