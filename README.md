@@ -1,4 +1,4 @@
-## Amazon Clone (HTML & CSS)
+## Amazon-Clone (HTML & CSS)
  A front-end practice project inspired by Amazon's homepage layout.
 ## Features
  Static layout with category sidebar, hero banner placeholder, and product grid cards styled with CSS.
