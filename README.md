@@ -1,8 +1,7 @@
-# Amazon Clone
-Amazon Clone (Frontend Website)
-<br/>
-Tech Stack: HTML5 & CSS3
-<br/>
-<br/>
-“Developed a responsive e-commerce website inspired by Amazon. Designed homepage with navbar, product
-section, banners, and footer.”
+## Amazon Clone (HTML & CSS)
+ A front-end practice project inspired by Amazon's homepage layout.
+ ### Features
+ Static layout with category sidebar, hero banner placeholder, and product grid cards styled with CSS.
+ ### Technologies Used
+ HTML5, CSS3. ## Structure index.html main page, amazon.css styling, images/ folder for all images.
+ ### How to Use Clone this repo, open index.html in your browser, no build tools required.
